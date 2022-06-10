@@ -1,6 +1,8 @@
 package ChapArray;
 import java.util.Arrays;
 
+/* 다양한 배열의 초기화 방법과 출력 방법 */
+
 public class ArrayEx2 {
 	public static void main(String[] args) {
 		int[] arr1 = new int[5];

@@ -1,6 +1,8 @@
 package ChapArray;
 import java.util.Arrays;
 
+/* 배열을 복사하는 방법과 참조변수가 가리키는 주소를 변경하는 방법 */
+
 public class ArrayEx3 {
 	public static void main(String[] args) {
 		int[] arr = new int[5];
