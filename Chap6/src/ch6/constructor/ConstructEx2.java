@@ -20,9 +20,10 @@ class Student{
 	}
 	
 	Student(Student student){
-		this.name = student.name;
-		this.grade = student.grade;
-		this.school = student.school;
+		this(student.name, student.grade, student.school);
+//		this.name = student.name;
+//		this.grade = student.grade;
+//		this.school = student.school;
 	}
 }
 
